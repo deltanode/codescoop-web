@@ -1,3 +1,3 @@
 # YYSCOOP
 
-YYSCOOP site - http://www.yyscoop.com/
+View this site at http://www.yyscoop.com/
