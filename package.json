@@ -4,7 +4,7 @@
   "description": "View this site at http://www.yyscoop.com/",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "postcss css/styles.css -o build/styles.css"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/yogesh7132/yyscoop-web/issues"
   },
-  "homepage": "https://github.com/yogesh7132/yyscoop-web#readme"
+  "homepage": "https://github.com/yogesh7132/yyscoop-web#readme",
+  "dependencies": {
+    "autoprefixer": "^9.8.0",
+    "postcss-cli": "^7.1.1",
+    "tailwindcss": "^1.4.6"
+  }
 }
