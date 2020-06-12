@@ -1,0 +1,25 @@
+{
+  "name": "yyscoop-web",
+  "version": "1.0.0",
+  "description": "View this site at http://www.yyscoop.com/",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss css/styles.css -o build/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogesh7132/yyscoop-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogesh7132/yyscoop-web/issues"
+  },
+  "homepage": "https://github.com/yogesh7132/yyscoop-web#readme",
+  "dependencies": {
+    "autoprefixer": "^9.8.0",
+    "postcss-cli": "^7.1.1",
+    "tailwindcss": "^1.4.6"
+  }
+}
