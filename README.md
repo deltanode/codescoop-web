@@ -1,3 +1,3 @@
-# YYSCOOP
+# CodeScoop
 
-View this site at http://www.yyscoop.com/
+View this site at https://codescoop.dev/
